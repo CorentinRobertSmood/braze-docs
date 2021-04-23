@@ -44,7 +44,7 @@ Within your `Info.plist` file, add the following snippet:
 >  Be sure to update `YOUR-SDK-ENDPOINT` with the correct value from your [App Settings][5] page.
 
 ```
-<key>Braze</key>
+<key>Appboy</key>
 <dict>
  <key>Endpoint</key>
  <string>YOUR-SDK-ENDPOINT</string>
